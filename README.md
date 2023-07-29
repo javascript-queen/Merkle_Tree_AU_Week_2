@@ -1,3 +1,17 @@
+# Things to Tackle
+
+## On the client side:
+ - Prove to the server we're on the nice list
+ - Add request body parameters
+## On the server side:
+-  Hardcode a merkle root representing the whole list (I did it with a function)
+- Grab the parameters from the front-end (client side)
+- Prove that a name is in the list
+
+## The way the client side works:
+
+
+This text below was added along with a fork from the Alchemy University repo [here](https://github.com/alchemyplatform/GiftList).
 # Gift List
 
 To get started with the repository, clone it and then run `npm install` in the top-level directory to install the depedencies.
